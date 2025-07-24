@@ -17,5 +17,3 @@ mvn clean test
 - Java 17 ou superior
 - Maven
 - ChromeDriver no PATH
-
-## Ajuste a baseURL e as classes de teste conforme necessário para seu projeto.
